@@ -12,6 +12,10 @@ const TinderCards = () => {
       name: "Cristiano Ronaldo",
       url: "https://img.a.transfermarkt.technology/portrait/big/8198-1694609670.jpg?lm=1",
     },
+    {
+      name: "Eden Hazard",
+      url: "https://assets-fr.imgfoot.com/media/cache/1200x675/eden-hazard-2223-1.jpg",
+    },
   ]);
 
   const swiped = (direction) => {
